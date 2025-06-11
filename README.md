@@ -1,2 +1,2 @@
 # self-hosted
-Anything about Self-hosted
+Anything about Self-hosted Services
